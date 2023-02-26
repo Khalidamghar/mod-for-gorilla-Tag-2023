@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbw0hv.jpg",
+      "title": "mod for gorilla 1",
+        "text_Content": "Gorilla is a popular game that has been around for many years. It is a platform game where the player controls a gorilla that throws barrels at Mario, who is trying to rescue his girlfriend. The game has been a favorite of gamers for decades and has spawned numerous sequels and spin-offs.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbwMEN.jpg",
+      "title": "mod for gorilla 2",
+        "text_Content": "The Multiplayer Mod also introduces new mechanics, such as power-ups that can be picked up by the players. These power-ups can provide advantages, such as increased speed or more powerful attacks, giving players an incentive to collect them.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbw1QR.jpg",
+      "title": "mod for gorilla 3",
+        "text_Content": "The Donkey Kong Mod is a total conversion mod that replaces the gorilla with Donkey Kong, the antagonist from the game of the same name. This mod changes the gameplay significantly, as Donkey Kong has different abilities and attacks than the gorilla.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbwlTJ.jpg",
+      "title": "mod for gorilla 4",
+        "text_Content": "The Donkey Kong Mod is a total conversion mod that replaces the gorilla with Donkey Kong, the antagonist from the game of the same name. This mod changes the gameplay significantly, as Donkey Kong has different abilities and attacks than the gorilla.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbwGBp.jpg",
+      "title": "mod for gorilla 5",
+        "text_Content": "The Donkey Kong Mod is a total conversion mod that replaces the gorilla with Donkey Kong, the antagonist from the game of the same name. This mod changes the gameplay significantly, as Donkey Kong has different abilities and attacks than the gorilla.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbwX2t.jpg",
+      "title": "mod for gorilla 6",
+        "text_Content": "The Donkey Kong Mod is a total conversion mod that replaces the gorilla with Donkey Kong, the antagonist from the game of the same name. This mod changes the gameplay significantly, as Donkey Kong has different abilities and attacks than the gorilla.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbwV4I.jpg",
+      "title": "mod for gorilla 7",
+        "text_Content": "The Donkey Kong Mod is a total conversion mod that replaces the gorilla with Donkey Kong, the antagonist from the game of the same name. This mod changes the gameplay significantly, as Donkey Kong has different abilities and attacks than the gorilla.",
+        "text_Content_1": ""
 
 
 
